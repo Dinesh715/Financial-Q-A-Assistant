@@ -108,22 +108,22 @@ streamlit run financial_qa_assistant.py
 ```
 ### 💡 Usage
 
-Upload a financial document (PDF or Excel) using the sidebar
+- Upload a financial document (PDF or Excel) using the sidebar
 
-Wait for the document to be processed (you'll see a preview)
+- Wait for the document to be processed (you'll see a preview)
 
-Start asking questions about your financial data in the chat interface
+- Start asking questions about your financial data in the chat interface
 
-Explore follow-up questions based on previous answers
+- Explore follow-up questions based on previous answers
 
 ### Example Questions:
 
-"What was the total revenue in Q4?"
+- "What was the total revenue in Q4?"
 
-"Show me the expense breakdown by category"
+- "Show me the expense breakdown by category"
 
-"What is our net profit margin?"
+- "What is our net profit margin?"
 
-"Compare marketing expenses between quarters"
+- "Compare marketing expenses between quarters"
 
-"What are our current assets and liabilities?"
+- "What are our current assets and liabilities?"
