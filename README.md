@@ -127,3 +127,24 @@ streamlit run financial_qa_assistant.py
 - "Compare marketing expenses between quarters"
 
 - "What are our current assets and liabilities?"
+
+### 🏗️ Project Structure
+
+financial-qa-assistant/
+├── financial_qa_assistant.py  # Main application file
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project documentation
+└── assets/                    # Additional resources
+    └── demo-screenshot.png    # Application screenshot
+
+### 🔧 Customization
+
+- This project is highly customizable:
+
+- Model Selection: Switch between different Ollama models
+
+- Prompt Engineering: Modify the financial analysis prompts
+
+- UI Enhancements: Extend the Streamlit interface with additional features
+
+Document Processing: Add support for additional file formats
