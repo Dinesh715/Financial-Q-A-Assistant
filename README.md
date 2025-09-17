@@ -132,8 +132,11 @@ streamlit run financial_qa_assistant.py
 
 financial-qa-assistant/
 ├── financial_qa_assistant.py  # Main application file
+
 ├── requirements.txt           # Python dependencies
+
 ├── README.md                  # Project documentation
+
 └── assets/                    # Additional resources
     └── demo-screenshot.png    # Application screenshot
 
