@@ -1,6 +1,6 @@
 # 📊 Financial Document Q&A Assistant
 
-![Python]([https://img.shields.io/badge/Python-3.8%252B-blue](https://www.python.org/))  
+![Python]([https://img.shields.io/badge/Python-3.8%252B-blue])  
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red)  
 ![Ollama](https://img.shields.io/badge/Ollama-Local%2520LLM-orange)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
