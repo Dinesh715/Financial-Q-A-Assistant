@@ -88,3 +88,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/financial-qa-assistant.git
 cd financial-qa-assistant
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+ollama serve
+
+streamlit run financial_qa_assistant.py
